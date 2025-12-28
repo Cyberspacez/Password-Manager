@@ -148,5 +148,5 @@ Adding a password:
 
 ## Author
 
-**Cyberspace**  
+**Tarık**  
 CS50 Final Project
