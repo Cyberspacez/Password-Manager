@@ -137,9 +137,16 @@ Through this project, I learned:
 
 
 ## Screenshots
-dfasdfasd
+
+Main UI:
+
+![Main UI](screenshots/main.png)
+
+Adding a password:
+
+![Adding a password](screenshots/add_password.png)
 
 ## Author
 
-**Tarik**  
+**Cyberspace**  
 CS50 Final Project
